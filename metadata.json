@@ -1,0 +1,8 @@
+{
+  "name": "Sự thức giấc của Tiny - Ngày 20/10",
+  "description": "Món quà 20/10 ngọt ngào và đáng yêu từ chú robot Tiny gửi tặng người ấy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
